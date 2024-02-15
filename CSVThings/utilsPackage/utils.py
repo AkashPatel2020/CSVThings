@@ -18,3 +18,4 @@ def read_CSV_file():
     #print(csv_data)
     print (type(csv_data))      # It's a list of lists!
     return csv_data
+    
